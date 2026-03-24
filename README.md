@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 DevOps Engineer specializing in cloud infrastructure, automation, and CI/CD practices.<br>Experienced in designing and managing scalable systems on AWS, with a strong focus on reliability, performance, and efficient deployment workflows.<br>Skilled in leveraging tools like Docker, Ansible, and GitHub Actions to streamline development and operations.<br><br>### 
 
 ## 🌐 Socials:
